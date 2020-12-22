@@ -5,10 +5,12 @@
 First python project - analyzing bikeshare data
 
 ### Description
-Program to pull in .csv data files of bikeshare data from NYC, Chicago, and Washington and analyze it. 
+Program to pull in .csv data files of bikeshare data from NYC, Chicago, and Washington and analyze it.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+N/A
