@@ -5,7 +5,7 @@
 First python project - analyzing bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+Program to pull in .csv data files of bikeshare data from NYC, Chicago, and Washington and analyze it. 
 
 ### Files used
 Include the files used
