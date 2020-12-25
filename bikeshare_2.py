@@ -105,7 +105,7 @@ def time_stats(df):
     df['hour'] = df['Start Time'].dt.hour
     common_hour = df['hour'].mode()[0]
     print('The most common hour to start to travel is: ', common_hour)
-
+    #display how long the trip takes
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
